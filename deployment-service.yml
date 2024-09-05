@@ -34,4 +34,6 @@ spec:
   type: LoadBalancer
   #user data
   interfaces
-  
+  1
+  2
+  23
